@@ -1,0 +1,12 @@
+
+
+li{
+    padding: 6px;
+    margin-left: 20px;
+}
+
+li a{
+    font-size: 18px;
+    color: var(--main-color);
+    font-weight: 600;
+}

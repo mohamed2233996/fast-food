@@ -1,0 +1,16 @@
+.intro2{
+    background-color: var(--main-color);
+    padding: 40px;
+}
+
+.intro2 p{
+    font-size: 33px;
+    color: var(--light-color);
+    font-weight: 700;
+}
+
+.intro2 h3{
+    color: var(--light-color);
+    font-size: 16px;
+    margin-top: 4px;
+}

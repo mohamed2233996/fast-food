@@ -1,0 +1,41 @@
+.about{
+    padding-bottom: 80px;
+    background-color: var(--light-color);
+}
+
+.part{
+    padding-top: 110px;
+}
+
+.about-heading{
+    color: var(--scend-color);
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.about-text{
+    font-size: 18px;
+    color: #6f6f6f;
+    padding: 20px 0;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+    border-radius: var(--primery-radius);
+}
+
+
+.about-list{
+    color: #6f6f6f;
+    padding: 0;
+    list-style: none;
+    margin: 0;
+    margin-bottom: 25px;
+}
+
+.about-list span{
+    font-size: 20px;
+    color: var(--main-color);
+    padding-right: 20px;
+}

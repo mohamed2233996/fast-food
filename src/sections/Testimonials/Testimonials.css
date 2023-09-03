@@ -1,0 +1,10 @@
+.Testimonials{
+    background-color: var(--main-color);
+}
+
+.Testimonials-haeding{
+    color: var(--light-color);
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}

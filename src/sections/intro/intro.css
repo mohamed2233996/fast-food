@@ -1,0 +1,24 @@
+.intro{
+    background-image: url(../../assets/3.jpg);
+    padding: 270px 0 150px;
+    background-size: cover;
+}
+
+.intro-haeding{
+    color: var(--scend-color);
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.intro-text{
+    color: #6f6f6f;
+    margin-bottom: 25px;
+}
+
+
+@media (max-width: 769px){
+    .Explore .product{
+    text-align: center;
+    margin-bottom: 30px;
+    }
+}

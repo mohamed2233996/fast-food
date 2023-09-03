@@ -1,0 +1,23 @@
+.questions-heading{
+    text-align: center;
+    color: var(--main-color);
+    margin-bottom: 25px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.questions-item-haeding{
+    color: var(--scend-color);
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.point{
+    color: red;
+}
+
+.questions-item-text{
+    font-size: 17px;
+    color: #000000b8;
+    margin: 20px 0;
+}

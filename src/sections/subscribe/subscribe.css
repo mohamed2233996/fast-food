@@ -1,0 +1,25 @@
+.subscribe{
+    background-color: var(--light-color);
+}
+
+.subscribe-haeding{
+    color: var(--scend-color);
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.subscribe-text{
+    color: #6f6f6f;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.subscribe form{
+    width: 60%;
+    margin: auto;
+}
+
+.subscribe .input-m{
+    font-size: 19px;
+    margin: 20px 0;
+}

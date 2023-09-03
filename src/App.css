@@ -1,0 +1,45 @@
+:root {
+    line-height: 1.5;
+    font-weight: 400;
+    --main-color: #a82c48;
+    --scend-color: #43121d;
+    --light-color: #ffffff;
+    --primery-shadow: rgba(0, 0, 0, 0.2) 0px 1px 8px;
+    --primery-radius: 8px
+}
+
+.section-m{
+    padding: 80px 0;
+}
+
+.btn-m {
+    font-size: 14px;
+    color: var(--light-color);
+    background-color: var(--main-color);
+    border-radius: var(--primery-radius);
+    padding: 12px 30px;
+    border: 1px solid var(--main-color);
+    letter-spacing: 0.5px;
+    transition: all .3s;
+}
+
+.btn-m:hover {
+    color: var(--main-color);
+    background-color: var(--light-color);
+}
+
+.btn-m-light {
+    font-size: 14px;
+    color: var(--main-color);
+    background-color: var(--light-color);
+    border-radius: 7px;
+    padding: 12px 30px;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+    letter-spacing: 0.5px;
+    transition: all .3s;
+}
+
+.btn-m-light:hover {
+    color: var(--main-color);
+    border: 1px solid var(--main-color);
+}

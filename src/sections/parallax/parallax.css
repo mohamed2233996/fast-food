@@ -1,0 +1,30 @@
+.parallax{
+    position: relative;
+    background-image: url(../../assets/4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.overflow-m{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #00000073;
+    inset: 0;
+}
+
+.parallax-haedind{
+    color: var(--light-color);
+    font-size: 35px;
+}
+
+.parallax .btn-m{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+.parallax .btn-m:hover{
+    background-color: transparent;
+}

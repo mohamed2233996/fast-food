@@ -1,0 +1,42 @@
+.carousel-m{
+    background: var(--light-color);
+    border-radius: var(--primery-radius);
+    width: 80%;
+    margin: auto;
+    padding: 25px 100px;
+}
+
+
+.carousel-img img{
+    max-width: 10%;
+    border-radius: 50%;
+}
+
+.carousel-text{
+    font-size: 25px;
+    color: #0000009c;
+    font-weight: 300;
+    margin: 30px 0px;
+}
+
+.auther{
+    color: var(--main-color);
+    font-size: 22px;
+    font-weight: 700;
+}
+
+
+.carousel .carousel-status{
+    display: none;
+}
+
+
+.carousel.carousel-slider .control-arrow {
+    display: none;
+}
+
+
+.carousel .control-dots .dot {
+    width: 15px !important;
+    height: 15px !important;
+}
