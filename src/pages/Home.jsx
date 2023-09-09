@@ -1,5 +1,5 @@
 import React from 'react';
-import { Intro, Intro2, About, Video,Explore,Testimonials, Questions, Parallax, Subscribe } from '../sections/indx';
+import { Intro, Intro2, About, Video,Explore,Testimonials, Questions, Parallax, Subscribe } from '../sections/index';
 
 
 const Home = () => {

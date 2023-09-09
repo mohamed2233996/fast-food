@@ -1,7 +1,6 @@
 import React from 'react';
 import './header.css';
 import logo from '../assets/logo.png'
-import { Link } from "react-router-dom";
 
 
 const Header = () => {
@@ -15,11 +14,11 @@ const Header = () => {
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav nav">
-                            <li><Link to="/"><p>Home</p></Link></li>
-                            <li><Link to="/about"><p>About Us</p></Link></li>
-                            <li><Link to='/foods'><p>Explore Foods</p></Link></li>
-                            <li><Link to='/Reviews'><p>Reviews</p></Link></li>
-                            <li><Link to='/FAQ'><p>FAQ</p></Link></li>
+                            <li><a href="">Home</a></li>
+                            <li><a href="#about">About Us</a></li>
+                            <li><a href='#foods'>Explore Foods</a></li>
+                            <li><a href='#Reviews'>Reviews</a></li>
+                            <li><a href='#FAQ'>FAQ</a></li>
                         </ul>
                     </div>
                     <form className="d-flex" role="search">

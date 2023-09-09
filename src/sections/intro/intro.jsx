@@ -11,9 +11,9 @@ const Intro = () => {
                         <h1 className='intro-haeding'>Good food choices are good investments.</h1><br />
                         <p className='intro-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et purus a odio finibus bibendum amet leo.</p>
                         <div className="intro-btns d-grid gap-2 d-md-flex justify-content-md-start">
-                            <a className='btn-m fw-bold' href="/explore">
+                            <a className='btn-m fw-bold' href="#explore">
                                 Order Now <BsCartPlusFill /></a>
-                            <a className='btn-m-light fw-bold' href="/about">
+                            <a className='btn-m-light fw-bold' href="#about">
                                 Learn More <BsChevronCompactRight /></a>
                         </div>
                     </div>

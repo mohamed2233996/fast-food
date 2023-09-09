@@ -6,7 +6,7 @@ import { BsFillBookmarkCheckFill } from "react-icons/bs";
 
 const About = () => {
     return (
-        <div className='about section-m'>
+        <div className='about section-m' id='about'>
             <div className="container">
                 <div className="row">
                     <div className="col-md-7">
